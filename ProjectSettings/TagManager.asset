@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enviroment
+  - Finish_Line
+  - spikes
+  - enemykill
+  - LastFinish
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostFX
+  - Ground
+  - EnemyHead
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2471907535
+    locked: 0
+  - name: behindDef
+    uniqueID: 3606199881
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FrontGround
+    uniqueID: 3427417541
+    locked: 0
+  - name: UI
+    uniqueID: 2897121087
+    locked: 0
